@@ -57,6 +57,3 @@ A integridade do domínio é garantida através de testes unitários que validam
 1. Abra o IntelliJ IDEA.
 2. Navegue até a classe `ClienteTest` dentro de `src/test/java/`.
 3. Clique com o botão direito sobre a classe ou método e selecione **Run 'ClienteTest'** (ou use o atalho `Ctrl + Shift + F10` / `Cmd + Shift + R`).
-
----
-Desenvolvido com ☕ e boas práticas de arquitetura de software por [Seu Nome](https://github.com).

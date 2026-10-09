@@ -5,7 +5,7 @@ Este repositório contém a implementação do núcleo de domínio de uma aplica
 ---
  
 ## - Estrutura de Arquitetura do Domínio
-
+ 
 O design do código segue a separação tática do DDD para garantir alta coesão e baixo acoplamento:
 
 ```text

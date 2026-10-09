@@ -3,7 +3,7 @@
 Este repositório contém a implementação do núcleo de domínio de uma aplicação baseada nos princípios de **DDD (Domain-Driven Design)**. O objetivo principal é garantir o isolamento das regras de negócio, utilizando estruturas de *Aggregate Roots*, *Entities* e *Value Objects*.
 
 ---
-
+ 
 ## - Estrutura de Arquitetura do Domínio
 
 O design do código segue a separação tática do DDD para garantir alta coesão e baixo acoplamento:
